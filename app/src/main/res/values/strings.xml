@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Day2_27</string>
+    <string name="toolbar_scan">扫描</string>
+    <string name="toolbar_clear">清空列表</string>
+    <string name="toolbar_search">搜索</string>
+    <string name="toolbar_multiselect">多选</string>
+    <string name="empty_Tips">你的数据库没有歌曲，\n点击右上角扫描添加吧</string>
+    <string name="frag_scan_all">扫描整机</string>
+    <string name="frag_scan_designated">扫描指定文件夹</string>
+    <string name="current_song_title">当前歌曲名</string>
+    <string name="current_song_singer">当前歌曲歌手</string>
+    <string name="multi_list_delete">删除</string>
+    <string name="multi_list_Inverse">反选</string>
+    <string name="multi_list_all">全选</string>
+    <string name="folder_item_name">文件夹</string>
+    <string name="frag_scan_designated_confirm">确定</string>
+    <string name="frag_scan_designated_cancel">取消</string>
+    <string name="play_music_current_time">00:00</string>
+</resources>
